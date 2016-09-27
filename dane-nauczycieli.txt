@@ -1,0 +1,6 @@
+1 dyrektor dyrektor Adam Adamowski Dyrektor - Brzeznica 25 507999111
+2 angielski angielski Anna German Nauczyciel Angielski Skawina 257 500131931
+3 wychowawca wychowawca Agnieszka Grzyb Wychowawca - Skawina 45 666243567
+4 matematyka matematyka Elzbieta Jawien Nauczyciel Matematyka Krakow 77 500999888
+5 polski polski Aneta Starczewska Nauczyciel Polski Krakow 256 507789987
+6 przyroda przyroda Alicja Wyroba Nauczyciel Przyroda Skawina 124 680889765
